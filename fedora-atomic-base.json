@@ -12,10 +12,8 @@
 			   "fedora-release"],
 
     "packages": ["dracut-config-generic", "kernel", "rpm-ostree", "lvm2",
-		 "authconfig",
 		 "btrfs-progs", "e2fsprogs", "xfsprogs",
-		 "grub2", "grub2-efi", "ostree-grub2",
-		 "efibootmgr", "shim",
+		 "syslinux-extlinux", "authconfig",
 		 "gnupg2",
 		 "basesystem",
 		 "bash",
